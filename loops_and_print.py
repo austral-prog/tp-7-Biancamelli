@@ -17,3 +17,4 @@ colors = ["Red", "Green", "", "White", "Black"]
 
 print(enumerate_list(colors))
 print(enumerate_backwards(colors))
+
